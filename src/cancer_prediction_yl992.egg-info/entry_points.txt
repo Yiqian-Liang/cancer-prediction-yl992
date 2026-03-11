@@ -1,0 +1,2 @@
+[console_scripts]
+train = cancer_prediction_yl992.scripts.app:train

@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: cancer-prediction-yl992
+Version: 0.1.0
+Summary: A basic model to predict cancerous tumors based on certain properties.
+Author: Harry Potter
+Requires-Python: >=3.11
+License-File: LICENSE
+Requires-Dist: click>=8.3.1
+Requires-Dist: ipykernel>=6.29.5
+Requires-Dist: matplotlib>=3.7.5
+Requires-Dist: numpy>=1.24.4
+Requires-Dist: pandas>=2.0.3
+Requires-Dist: scikit-learn>=1.3.2
+Requires-Dist: streamlit>=1.55.0
+Dynamic: license-file
